@@ -1,4 +1,4 @@
-package com.example.restaurantmenu.adapters;
+package com.aquila.restaurant.adapters;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
@@ -7,9 +7,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.restaurantmenu.R;
-import com.example.restaurantmenu.databinding.ItemFoodBinding;
-import com.example.restaurantmenu.models.FoodItem;
+import com.aquila.restaurant.R;
+import com.aquila.restaurant.databinding.ItemFoodBinding;
+import com.aquila.restaurant.models.FoodItem;
 
 import java.text.NumberFormat;
 import java.util.List;

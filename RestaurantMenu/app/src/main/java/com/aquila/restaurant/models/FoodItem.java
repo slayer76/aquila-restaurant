@@ -1,4 +1,4 @@
-package com.example.restaurantmenu.models;
+package com.aquila.restaurant.models;
 
 import com.google.firebase.firestore.DocumentId;
 import com.google.firebase.firestore.PropertyName;

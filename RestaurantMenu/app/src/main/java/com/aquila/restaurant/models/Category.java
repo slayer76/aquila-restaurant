@@ -1,4 +1,4 @@
-package com.example.restaurantmenu.models;
+package com.aquila.restaurant.models;
 
 /**
  * Model class representing a food category in the restaurant menu.

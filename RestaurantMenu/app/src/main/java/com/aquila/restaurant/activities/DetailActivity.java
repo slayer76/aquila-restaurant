@@ -1,4 +1,4 @@
-package com.example.restaurantmenu.activities;
+package com.aquila.restaurant.activities;
 
 import android.os.Bundle;
 import android.view.MenuItem;
@@ -6,8 +6,8 @@ import android.view.MenuItem;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.bumptech.glide.Glide;
-import com.example.restaurantmenu.R;
-import com.example.restaurantmenu.databinding.ActivityDetailBinding;
+import com.aquila.restaurant.R;
+import com.aquila.restaurant.databinding.ActivityDetailBinding;
 
 import java.text.NumberFormat;
 import java.util.Locale;

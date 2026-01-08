@@ -1,4 +1,4 @@
-package com.example.restaurantmenu.activities;
+package com.aquila.restaurant.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,8 +8,8 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.restaurantmenu.R;
-import com.example.restaurantmenu.databinding.ActivityMainBinding;
+import com.aquila.restaurant.R;
+import com.aquila.restaurant.databinding.ActivityMainBinding;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 

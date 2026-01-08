@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Restaurant Menu</string>
+    <string name="app_name">Aquila Restaurant</string>
     <string name="app_logo">App Logo</string>
     <string name="tagline">Discover delicious dishes</string>
     <string name="welcome_message">Welcome!</string>

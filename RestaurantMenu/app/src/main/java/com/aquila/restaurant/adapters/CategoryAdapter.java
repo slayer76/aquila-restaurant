@@ -1,4 +1,4 @@
-package com.example.restaurantmenu.adapters;
+package com.aquila.restaurant.adapters;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
@@ -6,9 +6,9 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.restaurantmenu.R;
-import com.example.restaurantmenu.databinding.ItemCategoryBinding;
-import com.example.restaurantmenu.models.Category;
+import com.aquila.restaurant.R;
+import com.aquila.restaurant.databinding.ItemCategoryBinding;
+import com.aquila.restaurant.models.Category;
 import com.google.android.material.card.MaterialCardView;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.restaurantmenu.activities;
+package com.aquila.restaurant.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,12 +11,12 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.example.restaurantmenu.R;
-import com.example.restaurantmenu.adapters.CategoryAdapter;
-import com.example.restaurantmenu.adapters.FoodItemAdapter;
-import com.example.restaurantmenu.databinding.ActivityMenuBinding;
-import com.example.restaurantmenu.models.Category;
-import com.example.restaurantmenu.models.FoodItem;
+import com.aquila.restaurant.R;
+import com.aquila.restaurant.adapters.CategoryAdapter;
+import com.aquila.restaurant.adapters.FoodItemAdapter;
+import com.aquila.restaurant.databinding.ActivityMenuBinding;
+import com.aquila.restaurant.models.Category;
+import com.aquila.restaurant.models.FoodItem;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
