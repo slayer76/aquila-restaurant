@@ -1,4 +1,4 @@
-# Restaurant Menu - Android App
+# Aquila Restaurant - Android App
 
 A Proof-of-Concept Android application for displaying a restaurant menu using Firebase backend.
 
@@ -14,10 +14,10 @@ A Proof-of-Concept Android application for displaying a restaurant menu using Fi
 ## Project Structure
 
 ```
-RestaurantMenu/
+aquila-restaurant/
 ├── app/
 │   ├── src/main/
-│   │   ├── java/com/example/restaurantmenu/
+│   │   ├── java/com/aquila/restaurant/
 │   │   │   ├── activities/
 │   │   │   │   ├── MainActivity.java      # Login screen with Firebase Anonymous Auth
 │   │   │   │   ├── MenuActivity.java      # Menu display with categories
@@ -25,10 +25,9 @@ RestaurantMenu/
 │   │   │   ├── adapters/
 │   │   │   │   ├── CategoryAdapter.java   # RecyclerView adapter for categories
 │   │   │   │   └── FoodItemAdapter.java   # RecyclerView adapter for food items
-│   │   │   ├── models/
-│   │   │   │   ├── FoodItem.java          # Food item data model
-│   │   │   │   └── Category.java          # Category data model
-│   │   │   └── utils/
+│   │   │   └── models/
+│   │   │       ├── FoodItem.java          # Food item data model
+│   │   │       └── Category.java          # Category data model
 │   │   ├── res/
 │   │   │   ├── layout/                    # XML layouts
 │   │   │   ├── values/                    # Strings, colors, themes
@@ -36,7 +35,7 @@ RestaurantMenu/
 │   │   │   └── menu/                      # Menu resources
 │   │   └── AndroidManifest.xml
 │   ├── build.gradle                       # App-level Gradle config
-│   └── google-services.json               # ⚠️ PLACEHOLDER - Replace with your own!
+│   └── google-services.json               # ⚠️ ADD YOUR OWN from Firebase Console!
 ├── build.gradle                           # Project-level Gradle config
 ├── settings.gradle
 ├── gradle.properties
@@ -61,14 +60,14 @@ RestaurantMenu/
 3. Add an Android app with package name: `com.example.restaurantmenu`
 4. Download the `google-services.json` file
 
-### 2. Replace google-services.json
+### 2. Add google-services.json
 
-**⚠️ IMPORTANT**: Replace the placeholder file at:
+**⚠️ IMPORTANT**: Add your Firebase config file at:
 ```
-RestaurantMenu/app/google-services.json
+app/google-services.json
 ```
 
-The placeholder file is located in the `app/` directory. Download your actual `google-services.json` from Firebase Console and replace it.
+Download your `google-services.json` from Firebase Console and place it in the `app/` directory.
 
 ### 3. Enable Firebase Services
 
