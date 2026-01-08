@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    
+    <!-- Background -->
+    <path
+        android:fillColor="#F5DDD9"
+        android:pathData="M0,0h100v100h-100z"/>
+    
+    <!-- Plate circle -->
+    <path
+        android:fillColor="#D8C2BD"
+        android:pathData="M50,50m-35,0a35,35 0,1 1,70 0a35,35 0,1 1,-70 0"/>
+    
+    <!-- Inner plate -->
+    <path
+        android:fillColor="#FFFBFF"
+        android:pathData="M50,50m-25,0a25,25 0,1 1,50 0a25,25 0,1 1,-50 0"/>
+    
+    <!-- Fork icon -->
+    <path
+        android:fillColor="#85736F"
+        android:pathData="M40,35v10h2v15h3V45h2V35h-2v8h-1v-8h-2v8h-1v-8h-1zM55,35v25h3V50c2,0 4,-2 4,-5v-10h-3v10h-1v-10h-3z"/>
+</vector>

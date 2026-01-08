@@ -1,0 +1,102 @@
+{
+  "foodItems": {
+    "pizza_margherita": {
+      "name": "Margherita Pizza",
+      "price": 12.99,
+      "description": "Classic Italian pizza with fresh mozzarella, tomatoes, and basil on a crispy thin crust. Made with our signature tomato sauce.",
+      "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400",
+      "category": "Mains"
+    },
+    "pizza_pepperoni": {
+      "name": "Pepperoni Pizza",
+      "price": 14.99,
+      "description": "Traditional pepperoni pizza loaded with premium pepperoni slices and melted mozzarella cheese on our hand-tossed crust.",
+      "imageUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=400",
+      "category": "Mains"
+    },
+    "pizza_quattro_formaggi": {
+      "name": "Quattro Formaggi Pizza",
+      "price": 15.99,
+      "description": "Four cheese pizza featuring mozzarella, gorgonzola, parmesan, and fontina cheeses. A cheese lover's dream!",
+      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400",
+      "category": "Mains"
+    },
+    "pasta_carbonara": {
+      "name": "Spaghetti Carbonara",
+      "price": 13.99,
+      "description": "Creamy Italian pasta with crispy pancetta, egg yolk, parmesan cheese, and freshly ground black pepper.",
+      "imageUrl": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=400",
+      "category": "Mains"
+    },
+    "pasta_bolognese": {
+      "name": "Pasta Bolognese",
+      "price": 14.49,
+      "description": "Rich and hearty meat sauce slow-cooked with tomatoes, carrots, and celery, served over fresh tagliatelle pasta.",
+      "imageUrl": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=400",
+      "category": "Mains"
+    },
+    "pasta_alfredo": {
+      "name": "Fettuccine Alfredo",
+      "price": 12.49,
+      "description": "Silky fettuccine pasta tossed in a rich, creamy parmesan sauce. Simple yet incredibly satisfying.",
+      "imageUrl": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?w=400",
+      "category": "Mains"
+    },
+    "salad_caesar": {
+      "name": "Caesar Salad",
+      "price": 9.99,
+      "description": "Crisp romaine lettuce, crunchy croutons, shaved parmesan, and our house-made Caesar dressing.",
+      "imageUrl": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?w=400",
+      "category": "Appetizers"
+    },
+    "salad_caprese": {
+      "name": "Caprese Salad",
+      "price": 10.99,
+      "description": "Fresh buffalo mozzarella, ripe tomatoes, and fragrant basil drizzled with extra virgin olive oil and balsamic glaze.",
+      "imageUrl": "https://images.unsplash.com/photo-1608897013039-887f21d8c804?w=400",
+      "category": "Appetizers"
+    },
+    "salad_garden": {
+      "name": "Garden Salad",
+      "price": 8.49,
+      "description": "Mixed greens with cherry tomatoes, cucumbers, red onions, and carrots. Served with your choice of dressing.",
+      "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
+      "category": "Appetizers"
+    },
+    "appetizer_bruschetta": {
+      "name": "Bruschetta",
+      "price": 7.99,
+      "description": "Toasted Italian bread topped with fresh diced tomatoes, garlic, basil, and a drizzle of olive oil.",
+      "imageUrl": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?w=400",
+      "category": "Appetizers"
+    },
+    "appetizer_garlic_bread": {
+      "name": "Garlic Bread",
+      "price": 5.99,
+      "description": "Warm, crusty Italian bread brushed with garlic butter and herbs. Perfect for sharing!",
+      "imageUrl": "https://images.unsplash.com/photo-1619535860434-ba1d8fa12536?w=400",
+      "category": "Appetizers"
+    },
+    "dessert_tiramisu": {
+      "name": "Tiramisu",
+      "price": 8.99,
+      "description": "Classic Italian dessert with layers of espresso-soaked ladyfingers and mascarpone cream, dusted with cocoa.",
+      "imageUrl": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=400",
+      "category": "Desserts"
+    },
+    "dessert_panna_cotta": {
+      "name": "Panna Cotta",
+      "price": 7.99,
+      "description": "Silky vanilla cream dessert topped with fresh berry compote. Light and refreshing.",
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400",
+      "category": "Desserts"
+    },
+    "dessert_gelato": {
+      "name": "Gelato Trio",
+      "price": 6.99,
+      "description": "Three scoops of authentic Italian gelato. Choose from chocolate, vanilla, strawberry, or pistachio.",
+      "imageUrl": "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?w=400",
+      "category": "Desserts"
+    }
+  }
+}

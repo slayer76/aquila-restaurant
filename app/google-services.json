@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724893068184",
+    "project_id": "aquila-restaurant",
+    "storage_bucket": "aquila-restaurant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724893068184:android:051386368e33185ac8d9ed",
+        "android_client_info": {
+          "package_name": "com.aquila.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR9j2lQrYEvfMfT0Z30o0g_hIDyaMpens"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

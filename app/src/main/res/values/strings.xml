@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aquila Restaurant</string>
+    <string name="app_logo">App Logo</string>
+    <string name="tagline">Discover delicious dishes</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="login_subtitle">Sign in to explore our menu</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="powered_by_firebase">Powered by Firebase</string>
+    
+    <string name="menu_title">Our Menu</string>
+    <string name="categories">Categories</string>
+    <string name="menu_items">Menu Items</string>
+    <string name="no_items_available">No menu items available</string>
+    <string name="no_items_in_category">No items in this category</string>
+    
+    <string name="food_details">Food Details</string>
+    <string name="food_image">Food Image</string>
+    <string name="category_icon">Category Icon</string>
+    <string name="description">Description</string>
+    
+    <string name="action_logout">Logout</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
